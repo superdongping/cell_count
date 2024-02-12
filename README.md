@@ -5,4 +5,4 @@ The main workflow:
 3) use the mouse to define subregions to analyze from a large image
 4) all the detail parameters are located in the function Cell_Count, and may need to be adjusted based on different needs, the current setting is optimized for the c-fos cell count from the image with 10x objects.
 
-If you have any question, contact me at superdongping@gmail.com or pingdong@unc.edu
+If you have any questions for this code, contact me at superdongping@gmail.com or pingdong@unc.edu
